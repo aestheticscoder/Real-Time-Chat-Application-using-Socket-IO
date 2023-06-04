@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is the node Server for our Real-Time Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aestheticscoder/Real-Time-Chat-Application-using-Socket-IO.git"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aestheticscoder/Real-Time-Chat-Application-using-Socket-IO/issues"
+  },
+  "homepage": "https://github.com/aestheticscoder/Real-Time-Chat-Application-using-Socket-IO#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.2"
+  }
+}
